@@ -3,7 +3,6 @@
 and not equal otherwise.
 */
 import static java.lang.System.*;
-import java.util.Scanner;
 
 public class AllEqual { 
     public static void main(String[] args) { 
